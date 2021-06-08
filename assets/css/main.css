@@ -4374,6 +4374,38 @@ input, select, textarea {
 	font-size: 4.2rem;
 	color: #FFFFFF;
 }
+
+
+
+
+
+
+
+
+#projects_button{
+	width: 100%;
+	margin-top: 0.7em;
+	height: 5em;
+	text-align: center;
+	background-color: #b8a713;
+	/* background-color: #c2b013; */
+	border: 2px solid #b8a713;
+	color:black;
+	margin-right: 1%;
+
+}
+#projects_button:hover{
+	width: 100%;
+	margin-top: 0.7em;
+	height: 5em;
+	text-align: center;
+	background-color: #83770f;
+	/* background-color: #c2b013; */
+	border: 2px solid #b8a713;
+	color:black;
+	margin-right: 1%;
+
+}
 .contact-info h5 {
 	color: #FF0077;
 }
