@@ -3,5 +3,33 @@ CACHE MANIFEST
 # version 0.1
 
 index.html 
-images 
-assets 
+images/pic2.jpeg
+images/pic2.jpg
+images/pic2.png
+images/pic22.jpg
+images/pic3.jpeg
+images/pic3.jpg
+images/pic33.jpeg
+images/pic333.jpg
+images/pic4.jpeg
+images/profile(1).png
+images/profile.png
+
+
+
+
+assets/css/fontawesome-all.min.css
+assets/css/main.css
+assets/css/noscript.css
+
+assets/js/breakpoints.js
+assets/js/browser.min.js
+assets/js/jquery.dropotron.js
+assets/js/jquery.min.js
+assets/js/jquery-scrollex.min.js
+assets/js/main.js
+assets/js/util.js
+
+
+
+
