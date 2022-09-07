@@ -2,6 +2,7 @@ CACHE MANIFEST
 
 # version 0.1
 
+CACHE:
 index.html 
 images/pic2.jpeg
 images/pic2.jpg
@@ -31,5 +32,6 @@ assets/js/main.js
 assets/js/util.js
 
 
-
+FALLBACK:
+/ /offline.html
 
